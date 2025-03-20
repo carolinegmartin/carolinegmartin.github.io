@@ -1,2 +1,2 @@
-# carolinegmartin.github.io
+# Caroline Martin
 theme: jekyll-theme-minimal
